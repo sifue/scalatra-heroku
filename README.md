@@ -32,7 +32,7 @@ This is a sample of scalatra on heroku
 
 # Deploy to heroku
 
-```sh
+```
 $ heroku login
 $ heroku create --stack cedar
 $ git push heroku master
